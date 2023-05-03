@@ -39,7 +39,7 @@ init -2 python:
         "takahasi",
         "tanaka",
         "watanabe",
-        "ito",
+        "salvato",
         "nakamura",
         "kobayashi",
         "yamamoto",
